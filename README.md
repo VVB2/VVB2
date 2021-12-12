@@ -1,6 +1,7 @@
 # नमस्ते 🙏, I'm Vinod Vaman Bhat
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinodvamanbhat-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushkumar25/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinodvamanbhat-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushkumar25/) -->
+
 [![Gmail](https://img.shields.io/badge/Gmail-vinodvamanbhat@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:vinodvamanbhat@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-VVB2-blue?logo=Telegram&labelColor=black)](https://t.me/vinodvamanbhat)
 [![CodeWars](https://img.shields.io/badge/CodeWars-VVB2-red?logo=CodeWars&logoColor=red&labelColor=black)](https://www.codewars.com/users/VVB2)
