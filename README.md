@@ -43,8 +43,9 @@
 
 ### Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VVB2&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Vinod's GitHub stats)
 
