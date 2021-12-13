@@ -7,7 +7,7 @@
 
 ## About Me
 
-## I'm a Student, Cricketer, Developer, and Gamer!
+### I'm a Student, Cricketer, Developer, and Gamer!
 
 -   🔭 I’m currently working on Full Stack Web Apps
 -   🌱 I’m currently learning Kubernates
