@@ -46,8 +46,10 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VVB2&hide=contribs,prs&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Vinod's GitHub stats)
+![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VVB2&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Vinod's GitHub stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VVB2&repo=mini_project&theme=tokyonight)](https://github.com/VVB2/mini_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VVB2&repo=Mocktest&theme=tokyonight)](https://github.com/VVB2/MockTest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VVB2&repo=VisitorsLog&theme=tokyonight)](https://github.com/VVB2/VisitorsLog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VVB2&repo=Car_Rental_Services&theme=tokyonight)](https://github.com/VVB2/Car_Rental_Services)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VVB2&theme=tokyonight&layout=compact&custom_title=Most used languages)
+[![Vinod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VVB&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
