@@ -41,11 +41,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://kubernetes.io/)
 [<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](https://kubernetes.io/)
 
-### Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+### Highlights
 
 ![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VVB2&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Vinod's GitHub stats)
 
