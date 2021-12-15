@@ -17,7 +17,7 @@
 -   💬 Ask me about Anything
 -   📫 How to reach me:[![Gmail](https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:vinodvamanbhat@gmail.com)
 -   😄 Pronouns: He/Him
--   ⚡ Fun fact: I love to play vide games 🎮
+-   ⚡ Fun fact: I love to play video games 🎮
 
 ### Languages and Tools that I use
 
