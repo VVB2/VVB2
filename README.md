@@ -13,9 +13,9 @@
 -   🌱 I’m currently learning Kubernates, AWS
 -   👯 I’m looking to collaborate on ReactJs
 -   🤔 I’m looking for help with DevOps
--   🥅 2020 Goals: Contribute more to Open Source projects
+-   🥅 2022 Goals: Contribute more to Open Source projects
 -   💬 Ask me about Anything
--   📫 How to reach me:[![Gmail](https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:vinodvamanbhat@gmail.com)
+-   📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinodvamanbhat-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/vinod-bhat-5267641b5/)
 -   😄 Pronouns: He/Him
 -   ⚡ Fun fact: I love to play video games 🎮
 
