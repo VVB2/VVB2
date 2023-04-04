@@ -13,7 +13,7 @@
 -   🌱 I’m currently learning Kubernates, AWS
 -   👯 I’m looking to collaborate on ReactJs
 -   🤔 I’m looking for help with DevOps
--   🥅 2022 Goals: Contribute more to Open Source projects
+-   🥅 2023 Goals: Contribute more to Open Source projects
 -   💬 Ask me about Anything
 -   📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinodvamanbhat-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/vinod-bhat-5267641b5/)
 -   😄 Pronouns: He/Him
@@ -72,7 +72,7 @@
 [![Mini Project](https://github-readme-stats.vercel.app/api/pin/?username=VVB2&repo=mini_project&theme=tokyonight)](https://github.com/VVB2/mini_project)
 [![Mocktest](https://github-readme-stats.vercel.app/api/pin/?username=VVB2&repo=Mocktest&theme=tokyonight)](https://github.com/VVB2/MockTest)
 [![VisitorsLog](https://github-readme-stats.vercel.app/api/pin/?username=VVB2&repo=VisitorsLog&theme=tokyonight)](https://github.com/VVB2/VisitorsLog)
-[![Car_Rental_Services](https://github-readme-stats.vercel.app/api/pin/?username=VVB2&repo=Car_Rental_Services&theme=tokyonight)](https://github.com/VVB2/Car_Rental_Services)
+[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=VVB2&repo=Library_Management_System&theme=tokyonight)](https://github.com/VVB2/Library_Management_System)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VVB2&theme=tokyonight&layout=compact&custom_title=Most used languages)
 
