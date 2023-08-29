@@ -1,16 +1,15 @@
 # नमस्ते 🙏, I'm Vinod Vaman Bhat
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinodvamanbhat-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/vinod-bhat-5267641b5/)
-[![Gmail](https://img.shields.io/badge/Gmail-vinodvamanbhat@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:vinodvamanbhat@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-VVB2-blue?logo=Telegram&labelColor=black)](https://t.me/vinodvamanbhat)
-[![CodeWars](https://img.shields.io/badge/CodeWars-VVB2-red?logo=CodeWars&logoColor=red&labelColor=black)](https://www.codewars.com/users/VVB2)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-bhat-5267641b5/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinodvamanbhat@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://snazzy-tartufo-6f8f42.netlify.app)
 
 ## 📝 About Me
 
 ### I'm a Student, Developer, Cricketer, and Gamer!
 
 -   🔭 I’m currently working on Full Stack Web Apps
--   🌱 I’m currently learning Kubernates, AWS
+-   🌱 I’m currently learning Kubernetes, AWS
 -   👯 I’m looking to collaborate on ReactJs
 -   🤔 I’m looking for help with DevOps
 -   🥅 2023 Goals: Contribute more to Open Source projects
