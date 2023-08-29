@@ -76,4 +76,4 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VVB2&theme=tokyonight&layout=compact&custom_title=Most used languages)
 
-[![Vinod's wakatime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=VVB&theme=tokyonight)](https://wakatime.com/@VVB)
+[![Vinod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VVB&theme=tokyonight)](https://wakatime.com/@VVB)
